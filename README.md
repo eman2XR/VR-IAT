@@ -1,6 +1,6 @@
 # VR-IAT
 
-Download the latest APK from Releases.
+Dowload the latest version from the [Releases](https://github.com/eman-insilico/VR-IAT/releases).
 
 The is a Virtual Reality recreation of the Harvard Implicit Association Test (https://implicit.harvard.edu/implicit/takeatest.html) with a twist: by using the Quest Hand Tracking, you can do the test with either white skin or black skin hands.
 
