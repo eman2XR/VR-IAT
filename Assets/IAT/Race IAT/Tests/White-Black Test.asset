@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: White-Black Test
+  m_EditorClassIdentifier: Assembly-CSharp::RaceIAT
+  IatName: White-Black
+  RaceCategory1: {fileID: 11400000, guid: 5f115169283d9ee45865bc4660acc029, type: 2}
+  RaceCategory2: {fileID: 11400000, guid: 9181696f332535940b89242057911693, type: 2}
+  WordCategory1: {fileID: 11400000, guid: 70d53c0367f671a4e9c3fe72213401a2, type: 2}
+  WordCategory2: {fileID: 11400000, guid: f844e0fe9c5632d4980fdde2342bccf6, type: 2}
